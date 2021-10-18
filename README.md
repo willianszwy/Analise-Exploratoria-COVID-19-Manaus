@@ -3,7 +3,7 @@
 Neste repositório você encontrará as atividades referentes à Atividade Avaliativa 1.2:  Análise Exploratória e Visualização de Atributos sobre a Covid-19 em Manaus, da disciplina Redes Neurais Artificiais ministrada pela professora Dra. Elloá B. Guedes, no curso de Sistemas de Informação da Escola Superior de Tecnologia (EST) da Universidade do Estado do Amazonas(UEA). 
 
 ## Equipe responsável: 
-- [Ícaro Santos](https://github.com/icarosun)
+- [Ícaro Pereira](https://github.com/icarosun)
 - [Jesus Dourado](https://github.com/jesusdourado)
 - [Luiz Henrique](https://github.com/LuizHenrique-BS)
 - [Willians Oliveira](https://github.com/willianszwy)
